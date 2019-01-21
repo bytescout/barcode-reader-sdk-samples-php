@@ -1,6 +1,3 @@
 ## Index of source code examples:
 
 \Read barcode from image
-\_Web API
-\_Web API\Read Barcode From Uploaded File
-\_Web API\Read Barcode From URL Asynchronously
